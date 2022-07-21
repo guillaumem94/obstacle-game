@@ -348,7 +348,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/movingPlatform/FifthMovingPlatform.cs"
+"Assets/movingPlatform/FouthMovingPlateform.cs"
+"Assets/movingPlatform/LastMovingPlatform.cs"
 "Assets/movingPlatform/MovingPlatform.cs"
+"Assets/movingPlatform/SecondMovingPlatform.cs"
+"Assets/movingPlatform/SixthMovingPlatform.cs"
+"Assets/movingPlatform/ThirdMovingPlatform.cs"
 -langversion:9.0
 
 /deterministic

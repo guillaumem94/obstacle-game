@@ -6,6 +6,7 @@ public class MovingPlatform : MonoBehaviour
 {
     Vector3 pointA = new Vector3(-10, 0, 40);
     Vector3 pointB = new Vector3(10, 0, 40);
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +14,7 @@ public class MovingPlatform : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector3.Lerp(pointA, pointB, Mathf.PingPong(Time.time, 1));
+    transform.position = Vector3.Lerp(pointA, pointB, Mathf.PingPong(Time.time, 1));
+    
     }
 }

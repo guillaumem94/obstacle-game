@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2732890719942871824}
   - component: {fileID: 2732890719942871827}
   m_Layer: 0
-  m_Name: first_platform (3)
+  m_Name: second-platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
